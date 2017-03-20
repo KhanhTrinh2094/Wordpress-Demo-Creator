@@ -1,0 +1,14 @@
+.slz-demo-hidden {
+	display:none;
+}
+
+.slz-start-demo {
+    background: #fff;
+    margin: 0 auto;
+    padding: 20px 20px 0;
+}
+
+.slz-start-demo-form input[type=submit] {
+    font-size: 22px;
+    width: 100%;
+}

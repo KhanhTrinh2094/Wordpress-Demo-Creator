@@ -1,0 +1,23 @@
+#poststuff h2 span {
+    font-size: 12px;
+}
+.slz-admin-restrict {
+    clear: both;
+}
+.slz-admin-restrict:after {
+    clear: both;
+    content: "";
+    display: block;
+}
+.slz-admin-restrict div.slz-parent-div {
+    background: #fff;
+    margin: 0 5px 10px 0;
+    padding: 15px;
+    width: 200px;
+}
+.slz-admin-restrict div.slz-parent-div h4 {
+    margin: 0;
+}
+.slz-admin-restrict div.slz-parent-div ul {
+    margin: 5px 0 0 20px;
+}
